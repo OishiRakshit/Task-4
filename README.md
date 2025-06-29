@@ -7,7 +7,7 @@ Configure and test basic firewall rules to **allow or block traffic**, ensuring 
 
 ## 🛠️ Tools Used
 - **Windows Firewall** (GUI & CLI - `netsh advfirewall`)
-- **UFW (Uncomplicated Firewall)** – Linux firewall interface
+- **UFW** – Linux firewall interface
 
 ---
 
